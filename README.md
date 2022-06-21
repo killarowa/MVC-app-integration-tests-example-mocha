@@ -1,2 +1,2 @@
-# MVC App with Integration Tests
+# MVC App with Integration Tests Example
 
